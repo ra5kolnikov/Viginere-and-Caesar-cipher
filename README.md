@@ -1,4 +1,5 @@
 # Viginere-and-Caesar-cipher
 simple implement of ciphers
-Example :
+
+Example:
 ![](https://github.com/ra5kolnikov/Viginere-and-Caesar-cipher/blob/develop/impl.png)
